@@ -22,7 +22,7 @@ cd tindog
 ```
 
 ## The project structure is as follows:
-
+```plaintext
 TinDog/
 ├── css/
 │   └── style.css       # Custom CSS for the website
@@ -33,5 +33,5 @@ TinDog/
 │   └── (Other images)  # Additional assets
 ├── index.html          # Main HTML file
 └── README.md           # Project documentation
-
+```
 
